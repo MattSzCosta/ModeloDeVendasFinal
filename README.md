@@ -2,7 +2,10 @@
 
 Items necess�rios:
 
-*Mudar o ModuloConexao.class no pacote br.com.modelodevendas.dal
+Dentro do ModuloConexao.class no pacote br.com.modelodevendas.dal :
+      -mudar o user e password
+      -caso esteja no windows mudar o driver para com.mysql.cj.jdbc.Driver
+      
 
 *MysqlWorkbench https://dev.mysql.com/downloads/workbench/
 
@@ -20,7 +23,7 @@ senha: admin
 
 
 EQUIPE:
-Mateus Costa
-Matheus Adam
-Rafaele Lemos
-Rodrigo Azevedo
+Mateus Costa,
+Matheus Adam,
+Rafaele Lemos,
+Rodrigo Azevedo,
