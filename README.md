@@ -28,16 +28,16 @@ Configurar o ModuloConexao.class no pacote br.com.modelodevendas.dal.
 
 entrar como admin
       |login: admin 
-      |senha: admin
+       senha: admin
 
 
 entrar como funcionario
       |login: matt
-      |senha: 123456
+       senha: 123456
 
 
 EQUIPE:
       |Mateus Costa,
-      |Matheus Adam,
-      |Rafaele Lemos,
-      |Rodrigo Azevedo
+       Matheus Adam,
+       Rafaele Lemos,
+       Rodrigo Azevedo
