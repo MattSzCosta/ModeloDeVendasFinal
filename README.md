@@ -14,28 +14,30 @@ Itens necessários:
 
 Configurar o ModuloConexao.class no pacote br.com.modelodevendas.dal.
   
-      |Por usar o debian meu mysql é antigo então tem que atualizar drive: "com.mysql.cj.jdbc.Driver"
-  
-      |caso ocorra erro com Time url: "jdbc:mysql://localhost:3306/dbloja?useTimezone=true&serverTimezone=UTC"
-
+      |Por usar o debian o drive mysql é antigo então tem que atualizar drive:"com.mysql.cj.jdbc.Driver"
+      
+      |caso ocorra erro com Time url:"jdbc:mysql://localhost:3306/dbloja?useTimezone=true&serverTimezone=UTC"
+      
+      |Por padrão é user:"root" e senha:""
+      
 
 *SourceFile(rs2xml.jar): https://sourceforge.net/projects/finalangelsanddemons/?source=directory? 
 
       |Biblioteca (bot�o direito)-> adicionar JAR/pasta -> rs2xml.jar
 
-entrar como admin
 
-   |login: admin 
-   |senha: admin
+entrar como admin
+      |login: admin 
+      |senha: admin
+
 
 entrar como funcionario
-
-   |login: matt
-   |senha: 123456
+      |login: matt
+      |senha: 123456
 
 
 EQUIPE:
-Mateus Costa,
-Matheus Adam,
-Rafaele Lemos,
-Rodrigo Azevedo,
+      |Mateus Costa,
+      |Matheus Adam,
+      |Rafaele Lemos,
+      |Rodrigo Azevedo
