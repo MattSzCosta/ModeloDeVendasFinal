@@ -1,13 +1,7 @@
 # ModeloDeVendasFinal
 
-Items necess�rios:
-
-Dentro do ModuloConexao.class no pacote br.com.modelodevendas.dal :
-      -mudar o user e password
-      -caso esteja no windows mudar o driver para com.mysql.cj.jdbc.Driver
-      
-
-*MysqlWorkbench https://dev.mysql.com/downloads/workbench/
+Configurar o ModuloConexao.class no pacote br.com.modelodevendas.dal.
+ Por usar o debian meu mysql é antigo então tem que atualizar com.mysql.cj.jdbc.Driver      
 
 *XAMPP https://www.apachefriends.org/pt_br/download.html
 Ativar o mysql
@@ -15,7 +9,7 @@ Ativar o mysql
 *MysqlConnector -> https://dev.mysql.com/downloads/connector/j/ 
 Biblioteca (bot�o direito)-> adicionar JAR/pasta -> procurar o mysql-connector-java-...-bin
 
-*SourceFile: https://sourceforge.net/projects/finalangelsanddemons/?source=directory? 
+*SourceFile(rs2xml.jar): https://sourceforge.net/projects/finalangelsanddemons/?source=directory? 
 Biblioteca (bot�o direito)-> adicionar JAR/pasta -> rs2xml.jar
 
 login: admin 
